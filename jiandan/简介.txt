@@ -1,2 +1,3 @@
 http://i.jandan.net/girl/MjAyMTA4MTgtOTI=#comments
 爬取的是这个网站的图片
+scrapy模块
